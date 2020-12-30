@@ -1,6 +1,6 @@
 # exoh
 
-A new Flutter project.
+A tic-tac-toe game with stunning UI build using flutter.
 
 ## Getting Started
 
